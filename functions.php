@@ -91,8 +91,8 @@ function getColour($color, $alpha = null, $change = null)
 
 function sendHTML($error = null)
 {
-    include('html.php');
-	die();
+	//include('html.php');
+	//die();
 }
 
 function cleanSRT(&$text)
